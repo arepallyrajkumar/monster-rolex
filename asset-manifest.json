@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monster-rolex/static/css/main.9d04accf.chunk.css",
+    "main.js": "/monster-rolex/static/js/main.d03cd2fc.chunk.js",
+    "main.js.map": "/monster-rolex/static/js/main.d03cd2fc.chunk.js.map",
+    "runtime-main.js": "/monster-rolex/static/js/runtime-main.e5f26da6.js",
+    "runtime-main.js.map": "/monster-rolex/static/js/runtime-main.e5f26da6.js.map",
+    "static/js/2.6931aef1.chunk.js": "/monster-rolex/static/js/2.6931aef1.chunk.js",
+    "static/js/2.6931aef1.chunk.js.map": "/monster-rolex/static/js/2.6931aef1.chunk.js.map",
+    "index.html": "/monster-rolex/index.html",
+    "precache-manifest.adbc778a843a1ad094c012f91341f6a7.js": "/monster-rolex/precache-manifest.adbc778a843a1ad094c012f91341f6a7.js",
+    "service-worker.js": "/monster-rolex/service-worker.js",
+    "static/css/main.9d04accf.chunk.css.map": "/monster-rolex/static/css/main.9d04accf.chunk.css.map",
+    "static/js/2.6931aef1.chunk.js.LICENSE.txt": "/monster-rolex/static/js/2.6931aef1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5f26da6.js",
+    "static/js/2.6931aef1.chunk.js",
+    "static/css/main.9d04accf.chunk.css",
+    "static/js/main.d03cd2fc.chunk.js"
+  ]
+}
